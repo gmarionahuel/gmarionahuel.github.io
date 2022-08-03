@@ -1058,9 +1058,10 @@ margin-left:50%;
     
     @media screen and (max-width:560px){
 	    
+	    .skills{margin-top:25px;
 	    .info {
 	    margin-top:30px;
-	    margin-bottom:40px
+	    margin-bottom:40px;
 	    }
 
       .social-icons a {
