@@ -20,11 +20,11 @@ body{
   margin: 10% auto 10%;
 }
 
-.0linea{
+.nolinea{
   width: 100%;
   display: block;
   height: 12px;
-  background-color: rgb(230, 230, 230);
+  background-color: transparent;
   margin: 0;
 }
 
