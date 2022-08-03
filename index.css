@@ -1065,6 +1065,10 @@ margin-left:50%;
     }
     
     @media screen and (max-width:560px){
+	    
+	    .languages{
+	    margin-bottom:75px;
+	    }
 	 .iconpad:first-of-type {
     margin-left: 20%;
   }
