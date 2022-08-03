@@ -1057,6 +1057,10 @@ margin-left:50%;
     }
     
     @media screen and (max-width:560px){
+	    
+	    .info {
+	    margin-top:30px;
+	    }
 
       .social-icons a {
       margin:5%;
