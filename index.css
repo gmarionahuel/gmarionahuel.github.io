@@ -1057,7 +1057,9 @@ margin-left:50%;
     }
     
     @media screen and (max-width:560px){
-
+	 .iconpad:first-of-type {
+    margin-left: 20%;
+  }
     .info{margin-bottom:35px;}
 
       .social-icons a {
