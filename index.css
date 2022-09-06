@@ -887,8 +887,7 @@ to {
 .container .myName .subtitle{
     margin-left:7%;
     font-size: 17px;
-    margin: 2%;
-   
+    margin-top:2%;
     font-weight: 500;
     font-family: 'Manrope', sans-serif;
 }
